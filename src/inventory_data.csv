@@ -1,0 +1,8 @@
+ID,Name,Category,PurchasingPrice,SellingPrice,BatchNo,UnitNo,ExpiryDate,MinStock,OptimalStock,DiscountPercent
+A-001,Kothmale Cheese,A,400.0,550.0,51,6,2026-12-01,3,10,0.0
+A-002,Kothmale Greek Yogurt,A,150.0,220.0,102,5,2026-08-13,3,10,0.0
+B-001,Maliban Chocolate Biscuits,B,80.0,120.0,23,10,2026-07-17,5,20,0.0
+B-002,Maliban Ginger Biscuits,B,70.0,100.0,15,6,2026-08-16,5,20,0.0
+C-001,Araliya Local Red Rice 5kg,C,900.0,1100.0,45,15,2027-08-10,10,30,0.0
+C-002,Araliya Keeri Samba 5kg,C,1300.0,1600.0,54,14,2027-08-15,10,30,0.0
+A-003,Kothmale Gee,A,1050.0,1500.0,45,5,2027-12-04,5,10,0.0
